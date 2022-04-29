@@ -5,7 +5,7 @@ Moroccan Arabic Sentiment Analysis corpus
 
 If you use The MAC corpus in a scientific publication, please consider citing at least one of the following papers:
 
-**Garouani, M., Kharroubi, J. (2022). MAC: An Open and Free Moroccan Arabic Corpus for Sentiment Analysis. In: Ben Ahmed, M., Boudhir, A.A., Karaș, İ.R., Jain, V., Mellouli, S. (eds) Innovations in Smart Cities Applications Volume 5. SCA 2021. Lecture Notes in Networks and Systems, vol 393. Springer, Cham. https://doi.org/10.1007/978-3-030-94191-8_68**
+* **Garouani, M., Kharroubi, J. (2022). MAC: An Open and Free Moroccan Arabic Corpus for Sentiment Analysis. In: Ben Ahmed, M., Boudhir, A.A., Karaș, İ.R., Jain, V., Mellouli, S. (eds) Innovations in Smart Cities Applications Volume 5. SCA 2021. Lecture Notes in Networks and Systems, vol 393. Springer, Cham. https://doi.org/10.1007/978-3-030-94191-8_68**
 
 ```bibtex
 @InProceedings{Garouani_MAC,
@@ -21,7 +21,7 @@ doi="10.1007/978-3-030-94191-8_68"
 }
 ```
 
-**Garouani, M., Kharroubi, J. (2022). Towards a New Lexicon-Based Features Vector for Sentiment Analysis: Application to Moroccan Arabic Tweets. In: Maleh, Y., Alazab, M., Gherabi, N., Tawalbeh, L., Abd El-Latif, A.A. (eds) Advances in Information, Communication and Cybersecurity. ICI2C 2021. Lecture Notes in Networks and Systems, vol 357. Springer, Cham. https://doi.org/10.1007/978-3-030-91738-8_7
+* **Garouani, M., Kharroubi, J. (2022). Towards a New Lexicon-Based Features Vector for Sentiment Analysis: Application to Moroccan Arabic Tweets. In: Maleh, Y., Alazab, M., Gherabi, N., Tawalbeh, L., Abd El-Latif, A.A. (eds) Advances in Information, Communication and Cybersecurity. ICI2C 2021. Lecture Notes in Networks and Systems, vol 357. Springer, Cham. https://doi.org/10.1007/978-3-030-91738-8_7**
 
 ```bibtex
 @InProceedings{Garouani2022,
@@ -43,7 +43,7 @@ doi="10.1007/978-3-030-91738-8_7"
 
 ```
 
-**Garouani, M., Chrita, H., Kharroubi, J. (2021). Sentiment Analysis of Moroccan Tweets Using Text Mining. In: Motahhir, S., Bossoufi, B. (eds) Digital Technologies and Applications. ICDTA 2021. Lecture Notes in Networks and Systems, vol 211. Springer, Cham. https://doi.org/10.1007/978-3-030-73882-2_54
+* **Garouani, M., Chrita, H., Kharroubi, J. (2021). Sentiment Analysis of Moroccan Tweets Using Text Mining. In: Motahhir, S., Bossoufi, B. (eds) Digital Technologies and Applications. ICDTA 2021. Lecture Notes in Networks and Systems, vol 211. Springer, Cham. https://doi.org/10.1007/978-3-030-73882-2_54**
 
 ```bibtex
 @InProceedings{Garouani2021,
