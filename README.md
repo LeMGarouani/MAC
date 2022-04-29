@@ -1,7 +1,7 @@
 # MAC (Moroccan Arabic Corpus)
 The **MAC** is a free and large Moroccan Arabic corpus consisting of **18000** manually labeled tweets resulting in a lexicon-dictionary of **30000** words labeled as *positive, negative* and *neutral*. To the best of our knowledge, MAC is the first open and largest Moroccan Arabic corpus for sentiment analysis. It is pioneer by its size, its quality given by the consistency of the native annotators (IAA=0.9), and its accessibility to the research community. The MAC is benchmarked for forthcoming works through an exploratory data analysis carried out using the two-sentiment analysis approaches for polarity classification as well as language identification.
 
-## Citing MAC:
+## Citing MAC
 
 If you use The MAC corpus in a scientific publication, please consider citing at least one of the following papers:
 
